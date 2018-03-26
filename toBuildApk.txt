@@ -1,0 +1,3 @@
+To build the apk (unsigned apk and debug apk) use the command:
+
+				ionic cordova build --release android
